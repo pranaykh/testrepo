@@ -1,2 +1,2 @@
 # testrepo
-test repository
+test repository new
